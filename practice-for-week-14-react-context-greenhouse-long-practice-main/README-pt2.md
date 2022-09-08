@@ -11,7 +11,7 @@ class of "off" is clicked, the `themeName` should be set to `"night"`.
 The `themeName` value should also replace the hard coded `"day"` class on the
 `div` with the class of "light-switch" plus the appropriate theme name based on
 state. Ex: `` <div className={`light-switch ${themeName}`}> ``.
-
+◊
 _Hint:_
 
 - Use the `useTheme` hook like you used in the previous phase to retrieve the
